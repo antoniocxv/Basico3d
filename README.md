@@ -4,21 +4,21 @@
 <h1>Objetivo: Familiarizarse con la interfaz de Unity</h1>
 
 1.Crear un proyecto Unity 3D básico que cumpla los siguientes requisitos:</br>
-   a) Cargar la escena de prueba de los starter assets Third Person </br>
-   a) Done</br>
+  a) Cargar la escena de prueba de los starter assets Third Person </br>
+  - Done</br>
   b) Conservar de la escena el personaje y elimina el entorno.</br>
-  b) Done</br>
+  - Done</br>
   c)  Incluye GameObjects del menú</br>
-  c) Done. Added a tree, square, flat (added grass texture) and rectangle</br>
+  - Done. Added a tree, square, flat (added grass texture) and rectangle</br>
   d) Incluye GameObjects de la Asset Store</br>
-  d) Done. Added two characters and a streetlight</br>
+  - Done. Added two characters and a streetlight</br>
   e) Convierte uno de los GameObjects incluido en el personaje  </br>
-  e) Done. Scaled hands, legs and head</br>
+  - Done. Scaled hands, legs and head</br>
   f) Agregar una fuente de iluminación y configurarla con luz de algún color distinto del blanco</br>
-  f) Done. Added red light trying to simulate streetlight</br>
+  - Done. Added red light trying to simulate streetlight</br>
   g) Generar un script que muestre en consola un mensaje: </br>
      La función para escribir información en consola es: Debug.Log()</br>
-     g) Done. Added at start of simulation</br>
+  - Done. Added at start of simulation</br>
 
 La entrega se debe realizar mediante un enlace al repositorio Github en el que se irá agregando las prácticas realizadas por el equipo de trabajo. Incluir un Readme.md de la práctica, que debe incluir gif animado de la ejecución. Se debe subir una copia en zip del repositorio creado. Todos los miembros del grupo deben realizar la entrega.</br>
 
