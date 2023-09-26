@@ -2,7 +2,7 @@
  2023.09.20 practice</br>
 [link de descarga ](https://drive.google.com/file/d/1-3GwctpC7GFjD0rMso30cAETn9V_A8lH/view?usp=sharing) </br>
  
-![](https://github.com/antoniocxv/Basico3d/blob/main/gif/basic3dUnity.gif)
+![](https://github.com/antoniocxv/Basico3d/blob/main/gif-zip/basic3dUnity.gif)
 <h1>Objetivo: Familiarizarse con la interfaz de Unity</h1>
 
 1.Crear un proyecto Unity 3D básico que cumpla los siguientes requisitos:</br>
